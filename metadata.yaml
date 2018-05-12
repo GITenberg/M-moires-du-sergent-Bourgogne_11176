@@ -1,5 +1,8 @@
 _repo: M-moires-du-sergent-Bourgogne_11176
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Bourgogne, Adrien-Jean-Baptiste-François
@@ -7,7 +10,7 @@ creator:
     - Bourgogne, Adrien-Jean-Baptiste-Francois
     - Bourgogne, François
     birthdate: 1785
-    deathdate: &id001 1867
+    deathdate: 1867
     gutenberg_agent_id: '3874'
     url: http://www.gutenberg.org/2009/agents/3874
   editors:
@@ -20,10 +23,12 @@ creator:
     aliases:
     - Henault, Maurice
     - Hénault, M. (Maurice)
-    birthdate: *id001
+    birthdate: 1867
     gutenberg_agent_id: '40356'
     url: http://www.gutenberg.org/2009/agents/40356
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/11176#M-moires-du-sergent-Bourgogne
 gutenberg_bookshelf:
 - FR Guerres
 - FR Biographie, Mémoires, Journal intime, Correspondance
